@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Aeonoscul_Nameplates
+## Author: Aeonoscul (sirus.su)
+## Notes: Improved and set sirus old nameplates
+## Version: 1.0
+
+A_Nameplates.lua
